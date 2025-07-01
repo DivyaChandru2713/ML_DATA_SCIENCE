@@ -1,0 +1,17 @@
+#ML_DATA_SCIENCE
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
